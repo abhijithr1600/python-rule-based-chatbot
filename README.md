@@ -61,9 +61,3 @@ chatbot python/
 
 ---
 
-## 🎓 Tutor Presentation Explanation
-
-When demonstrating this project to your tutor:
-1. **Explain the Pure Python Logic**: Point out `process_bot_response()` in `app.py`, which processes input text using Python regular expressions (`re`), string methods, and conditionals—without relying on any paid black-box AI services.
-2. **Explain Streamlit State**: Show how `st.session_state` preserves chat history and stores user memory (like user's name) across browser rerenders.
-3. **Showcase Interactive UI**: Demonstrate quick starter buttons in the sidebar, chat message avatars, calculations, and JSON export.
